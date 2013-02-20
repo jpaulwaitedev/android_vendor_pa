@@ -60,5 +60,12 @@
         "repository":   "android_packages_apps_paranoidpreferences",
         "target_path":  "packages/apps/ParanoidPreferences",
         "revision":     "jellybean"
+    },
+    {
+        "remote":       "github",
+        "account":      "AOSPA-t0ltecdma",
+        "repository":   "android_frameworks_base",
+        "target_path":  "frameworks/base",
+        "revision":     "jellybean"
     }
 ]
